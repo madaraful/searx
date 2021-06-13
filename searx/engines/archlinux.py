@@ -95,7 +95,7 @@ main_langs = {
     'sl': 'Slovenský',
     'th': 'ไทย',
     'uk': 'Українська',
-    'zh': '简体中文'
+    'zh': '中文'
 }
 supported_languages = dict(lang_urls, **main_langs)
 
